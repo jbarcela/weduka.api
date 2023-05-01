@@ -1,0 +1,21 @@
+
+{
+    "region" : "sa-east-1",
+    "profile" : "default",
+    "configuration" : "Release",
+    "framework"     : "net6.0",
+    "function-name" : "WedukaAPI3",
+    "function-description" : "",
+    "package-type"         : "Zip",
+    "function-handler"     : "Weduka.Api",
+    "function-memory-size" : 256,
+    "function-role"        : "arn:aws:iam::423120177315:role/lambda_exec_WedukaAPI3",
+    "function-timeout"     : 10,
+    "function-runtime"     : "dotnet6",
+    "function-architecture" : "x86_64",
+    "function-subnets"      : "",
+    "function-security-groups" : "",
+    "tracing-mode"             : "PassThrough",
+    "environment-variables"    : "",
+    "image-tag"                : ""
+}

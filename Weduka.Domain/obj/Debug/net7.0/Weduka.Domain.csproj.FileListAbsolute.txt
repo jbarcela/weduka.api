@@ -1,0 +1,12 @@
+D:\Workspace\Weduka.Api\Weduka.Domain\bin\Debug\net7.0\Weduka.Domain.deps.json
+D:\Workspace\Weduka.Api\Weduka.Domain\bin\Debug\net7.0\Weduka.Domain.dll
+D:\Workspace\Weduka.Api\Weduka.Domain\bin\Debug\net7.0\Weduka.Domain.pdb
+D:\Workspace\Weduka.Api\Weduka.Domain\obj\Debug\net7.0\Weduka.Domain.csproj.AssemblyReference.cache
+D:\Workspace\Weduka.Api\Weduka.Domain\obj\Debug\net7.0\Weduka.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Weduka.Api\Weduka.Domain\obj\Debug\net7.0\Weduka.Domain.AssemblyInfoInputs.cache
+D:\Workspace\Weduka.Api\Weduka.Domain\obj\Debug\net7.0\Weduka.Domain.AssemblyInfo.cs
+D:\Workspace\Weduka.Api\Weduka.Domain\obj\Debug\net7.0\Weduka.Domain.csproj.CoreCompileInputs.cache
+D:\Workspace\Weduka.Api\Weduka.Domain\obj\Debug\net7.0\Weduka.Domain.dll
+D:\Workspace\Weduka.Api\Weduka.Domain\obj\Debug\net7.0\refint\Weduka.Domain.dll
+D:\Workspace\Weduka.Api\Weduka.Domain\obj\Debug\net7.0\Weduka.Domain.pdb
+D:\Workspace\Weduka.Api\Weduka.Domain\obj\Debug\net7.0\ref\Weduka.Domain.dll
