@@ -22,6 +22,7 @@ public class GetAllPersonQueryHandler : IRequestHandler<GetAllPersonQueryRequest
         {
             Data = persons.Select(p => new PersonDTO()
             {
+                Id = p.Id,
                 Name = p.Name,
                 Contacts = p.Contacts.Select(c => new ContactDTO()
                 {

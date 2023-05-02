@@ -27,6 +27,7 @@ public class GetByIdPersonQueryHandler : IRequestHandler<GetByIdPersonQueryReque
         {
             Data = new PersonDTO()
             {
+                Id = person.Id,
                 Name = person.Name,
                 Contacts = person.Contacts.Select(c => new ContactDTO()
                 {

@@ -10,7 +10,7 @@
     "function-handler"     : "Weduka.Api",
     "function-memory-size" : 256,
     "function-role"        : "arn:aws:iam::423120177315:role/lambda_exec_WedukaAPI3",
-    "function-timeout"     : 10,
+    "function-timeout"     : 30,
     "function-runtime"     : "dotnet6",
     "function-architecture" : "x86_64",
     "function-subnets"      : "",

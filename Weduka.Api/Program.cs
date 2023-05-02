@@ -23,6 +23,11 @@ builder.Services.AddDbContext<WedukaContext>();
 // Add AWS Lambda support.
 builder.Services.AddAWSLambdaHosting(LambdaEventSource.HttpApi);
 
+builder.Services.AddCors(p => p.AddPolicy("wedukaapp", builder =>
+{
+    builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader();
+}));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -33,6 +38,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors("wedukaapp");
 
 app.UseAuthorization();
 
